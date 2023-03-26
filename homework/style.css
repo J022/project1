@@ -1,0 +1,16 @@
+header{
+    background-color: aqua;
+}
+nav{
+    border:1px solid black;
+    width:250px;
+}
+main article{
+    background-color: pink;
+}
+nav p a{
+    color:black;
+}
+nav p a:hover{
+    color:red;
+}
